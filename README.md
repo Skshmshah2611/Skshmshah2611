@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saksham R. Shah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skshmshah2611&label=Profile%20views&color=0e75b6&style=flat" alt="skshmshah2611" /> </p>
 
-- 🌱 I’m currently learning **JAVA, Javascript(ES6), Next.JS, AWS**
+- 🌱 I’m currently learning **JAVA, Javascript(ES6), Next.JS,**
 
-- 💬 Ask me about **React, Node, Express, MongoDb, SQL**
+- 💬 Ask me about **React, Node, SQL**
 
 - 📫 How to reach me **sakshamshah2611+github@gmail.com**
 
